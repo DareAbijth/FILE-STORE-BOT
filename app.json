@@ -7,15 +7,15 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/PyroFilesStoreBot",
-    "website": "https://telegram.dog/AbirHasan2005",
-    "success_url": "https://t.me/Discovery_Updates",
+    "repository": "https://github.com/Abijithkutty/PyroFilesStoreBot",
+    "website": "https://telegram.dog/DareAbijth",
+    "success_url": "https://t.me/tamilblasterzzzz",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "Get this value from my.telegram."
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "Get this value from my.telegram.org"
         },
         "BOT_TOKEN": {
             "description": "Get this from @BotFather XD"
