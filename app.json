@@ -7,9 +7,9 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/Abijithkutty/PyroFilesStoreBot",
+    "repository": "https://github.com/DareAbijth/FILE-STORE-BOT",
     "website": "https://telegram.dog/DareAbijth",
-    "success_url": "https://t.me/tamilblasterzzzz",
+    "success_url": "https://t.me/REX_BOTZ",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram."
