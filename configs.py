@@ -30,21 +30,21 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @tamilblasterzzzz
+🧑🏻‍💻 **Developer:** [⚡️࿐乂Ͼ🅰️🅱️🅸🅹🆃🅸🅷Ͽ乂࿐⚡️ .ᴋ](https://t.me/DareAbijth)
 
-👥 **Support Group:** [Support Group](https://t.me/moviesworld2ty)
+👥 **Support Group:** [Support Group](https://t.me/https://t.me/REX_Bots_Support)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/tamilblasterzzzz)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/REX_BOTZ)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** = @tamilblasterzzzz
+🧑🏻‍💻 **Developer:** = [⚡️࿐乂Ͼ🅰️🅱️🅸🅹🆃🅸🅷Ͽ乂࿐⚡️ .ᴋ](https://t.me/DareAbijth)
 
 Developer is Super Movie Uploader At [Ｃｉｎｅｍａ Ｔｉｍｅ™](https://t.me/Cinema_Time_TM). Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
 [Donate Now](https://t.me/DareAbijth) (Google Pay)
-[Button.url("ᴍᴏᴠɪᴇs Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ", "https://t.me/DMT_Movies_Discussion"), Button.url("UPDATES", "https://t.me/Cinema_Time_TM")]]
+[Button.url("ᴍᴏᴠɪᴇs Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ", "https://t.me/DMT_Movies_Discussion"), Button.url("Movies", "https://t.me/Cinema_Time_TM")]]
   await tbot.send_file(event.chat_id, PHOTO, caption=PIKACHU,  buttons=BUTTON)
 """
 	HOME_TEXT = """
