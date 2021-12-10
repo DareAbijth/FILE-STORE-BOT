@@ -44,8 +44,6 @@ Developer is Super Movie Uploader At [Ｃｉｎｅｍａ Ｔｉｍｅ™](https:
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
 [Donate Now](https://t.me/DareAbijth) (Google Pay)
-[Button.url("ᴍᴏᴠɪᴇs Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ", "https://t.me/DMT_Movies_Discussion"), Button.url("Movies", "https://t.me/Cinema_Time_TM")]]
-  await tbot.send_file(event.chat_id, PHOTO, caption=PIKACHU,  buttons=BUTTON)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
